@@ -6,6 +6,10 @@ namespace Composer\Autoload;
 
 class ComposerStaticInit70c9170f8e82e52691d53bf4d1133c22
 {
+    public static $files = array (
+        '18c597806fdcbcc5e090a95de2cfdb46' => __DIR__ . '/../..' . '/Behavioral/MediatorAndObserver/Mediator/events.php',
+    );
+
     public static $prefixLengthsPsr4 = array (
         'D' => 
         array (
