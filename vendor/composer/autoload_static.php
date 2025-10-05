@@ -8,6 +8,8 @@ class ComposerStaticInit70c9170f8e82e52691d53bf4d1133c22
 {
     public static $files = array (
         '18c597806fdcbcc5e090a95de2cfdb46' => __DIR__ . '/../..' . '/Behavioral/MediatorAndObserver/Mediator/events.php',
+        '7357b56462abe1e84da44f498b40a82f' => __DIR__ . '/../..' . '/Behavioral/TemplateMethod/simulateNetworkLatency.php',
+        'd0deb7b519c1151c267d3f504f5d10db' => __DIR__ . '/../..' . '/Behavioral/Visitor/Visitor/money_format.php',
     );
 
     public static $prefixLengthsPsr4 = array (

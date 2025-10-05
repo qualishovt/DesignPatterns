@@ -4,7 +4,9 @@
             "DesignPatterns\\": "../DesignPatterns/"
         },
         "files": [
-            "Behavioral/MediatorAndObserver/Mediator/events.php"
+            "Behavioral/MediatorAndObserver/Mediator/events.php",
+            "Behavioral/TemplateMethod/simulateNetworkLatency.php",
+            "Behavioral/Visitor/Visitor/money_format.php"
         ]
     }
 }

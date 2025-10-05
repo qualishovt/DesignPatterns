@@ -7,4 +7,6 @@ $baseDir = dirname($vendorDir);
 
 return array(
     '18c597806fdcbcc5e090a95de2cfdb46' => $baseDir . '/Behavioral/MediatorAndObserver/Mediator/events.php',
+    '7357b56462abe1e84da44f498b40a82f' => $baseDir . '/Behavioral/TemplateMethod/simulateNetworkLatency.php',
+    'd0deb7b519c1151c267d3f504f5d10db' => $baseDir . '/Behavioral/Visitor/Visitor/money_format.php',
 );
